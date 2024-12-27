@@ -13,7 +13,8 @@ MonoBehaviour:
   m_Name: Bob Hair
   m_EditorClassIdentifier: 
   hairList:
-  - hairAsset: {fileID: -6750239444755058063, guid: 3319330ab7d22014c8c06b8b1064c50b, type: 3}
+  - hairAsset: {fileID: -6750239444755058063, guid: 3319330ab7d22014c8c06b8b1064c50b,
+      type: 3}
     customize: 0
     localSimulationSettings:
       vspCoeff:
@@ -92,9 +93,6 @@ MonoBehaviour:
       followHairLengthOffset:
         value: 0.3
         overrideStates: 0
-      clampPositionDelta:
-        value: 0
-        overrideStates: 0
     localRenderingSettings:
       LODRange:
         value: {x: 0, y: 0}
@@ -156,7 +154,8 @@ MonoBehaviour:
     localStrandsFoldout: 1
     localGeometryFoldout: 0
     localSimulationFoldout: 0
-  - hairAsset: {fileID: -6750239444755058063, guid: 12dee01af069d0d4aa5525c3423f98bb, type: 3}
+  - hairAsset: {fileID: -6750239444755058063, guid: 12dee01af069d0d4aa5525c3423f98bb,
+      type: 3}
     customize: 0
     localSimulationSettings:
       vspCoeff:
@@ -234,9 +233,6 @@ MonoBehaviour:
         overrideStates: 0
       followHairLengthOffset:
         value: 0.3
-        overrideStates: 0
-      clampPositionDelta:
-        value: 0
         overrideStates: 0
     localRenderingSettings:
       LODRange:
@@ -299,7 +295,8 @@ MonoBehaviour:
     localStrandsFoldout: 1
     localGeometryFoldout: 0
     localSimulationFoldout: 0
-  - hairAsset: {fileID: -6750239444755058063, guid: 15a2623824448844e8a03e5d799188cb, type: 3}
+  - hairAsset: {fileID: -6750239444755058063, guid: 15a2623824448844e8a03e5d799188cb,
+      type: 3}
     customize: 0
     localSimulationSettings:
       vspCoeff:
@@ -377,9 +374,6 @@ MonoBehaviour:
         overrideStates: 0
       followHairLengthOffset:
         value: 0.3
-        overrideStates: 0
-      clampPositionDelta:
-        value: 0
         overrideStates: 0
     localRenderingSettings:
       LODRange:
@@ -442,7 +436,8 @@ MonoBehaviour:
     localStrandsFoldout: 1
     localGeometryFoldout: 1
     localSimulationFoldout: 1
-  - hairAsset: {fileID: -6750239444755058063, guid: 14e628009ab36184d9dc7a67a134906e, type: 3}
+  - hairAsset: {fileID: -6750239444755058063, guid: 14e628009ab36184d9dc7a67a134906e,
+      type: 3}
     customize: 0
     localSimulationSettings:
       vspCoeff:
@@ -520,9 +515,6 @@ MonoBehaviour:
         overrideStates: 0
       followHairLengthOffset:
         value: 0.3
-        overrideStates: 0
-      clampPositionDelta:
-        value: 0
         overrideStates: 0
     localRenderingSettings:
       LODRange:
@@ -585,7 +577,8 @@ MonoBehaviour:
     localStrandsFoldout: 1
     localGeometryFoldout: 1
     localSimulationFoldout: 1
-  - hairAsset: {fileID: -6750239444755058063, guid: dfdf6b25266158249a442110b49fc03d, type: 3}
+  - hairAsset: {fileID: -6750239444755058063, guid: dfdf6b25266158249a442110b49fc03d,
+      type: 3}
     customize: 0
     localSimulationSettings:
       vspCoeff:
@@ -663,9 +656,6 @@ MonoBehaviour:
         overrideStates: 0
       followHairLengthOffset:
         value: 0.3
-        overrideStates: 0
-      clampPositionDelta:
-        value: 0
         overrideStates: 0
     localRenderingSettings:
       LODRange:
@@ -805,9 +795,6 @@ MonoBehaviour:
     followHairLengthOffset:
       value: 0.1
       overrideStates: 0
-    clampPositionDelta:
-      value: 2
-      overrideStates: 0
   globalRenderingSettings:
     LODRange:
       value: {x: 2, y: 8}
@@ -863,8 +850,8 @@ MonoBehaviour:
     tessellationNumber:
       value: 16
       overrideStates: 0
-  hairStatusFoldout: 1
-  strandsSettingFoldout: 1
+  hairStatusFoldout: 0
+  strandsSettingFoldout: 0
   geometrySettingFoldout: 1
-  simulationSettingFoldout: 1
+  simulationSettingFoldout: 0
   needToReload: 0
